@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+/* :root {
+
+  --color-brown-500: #53423e, --color-lightBrown-500 #645550, --color-black-500 #1e1917, --color-darkBrown-500 #2c2523, --color-white-500 #f1e1d9, --color-cyan-500 #15d1e9, --color-ligtcyan-500 #88e5f0 --color-darkcyan-500 #009fb3 --color-orange-500 #fb9718 --color-lightorange-500 #fac27b --color-darkorange-500 #d28422 --color-grey-500 #626965 --color-lightgrey-500 #978580 --color-darkgrey-500 #3f4441
+}
+shadow : 0px 0px 20px 0px rgba(94,206,220,0.5);
+shadow: 10px 10px 200px 150px rgba(94,206,220,0.5);
+shadow: 10px 10px 200px 150px rgba(240,169,79,0.5);
+; */
+
+body {
+  background: #2c2523;
+}
