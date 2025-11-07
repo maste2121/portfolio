@@ -12,7 +12,7 @@ const projects = [
     title: "Quiz App",
     description:
       "An interactive quiz web app with Sign In / Sign Up and real-time scoring built using HTML, CSS, and JavaScript.",
-    image: "/public/quiz.png", // 📷 Add an image in your /public folder (e.g., quiz.jpg)
+    image: "/quiz.png", // 📷 Add an image in your /public folder (e.g., quiz.jpg)
     demoLink: "https://maste2121.github.io/quiz-app/", // 🌐 Replace with your deployed GitHub Pages link
   },
   {
