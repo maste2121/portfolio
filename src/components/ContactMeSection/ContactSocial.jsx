@@ -3,6 +3,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
 import { FaSquareWhatsapp } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
+import { FaTelegramPlane } from "react-icons/fa";
 import SingleContactSocial from "./SingleContactSocial";
 
 const ContactSocial = () => {
@@ -24,6 +25,10 @@ const ContactSocial = () => {
       <SingleContactSocial
         Link="https://www.instagram.com/ma.st1595?igsh=bDQ1aXhjbHVseXhs"
         Icon={FaInstagram}
+      />
+      <SingleContactSocial
+        Link="https://t.me/M21score"
+        Icon={FaTelegramPlane}
       />
     </div>
   );
