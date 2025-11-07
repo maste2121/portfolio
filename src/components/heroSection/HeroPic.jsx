@@ -13,7 +13,7 @@ const HeroPic = () => {
       className="h-full flex items-center justify-center md:me-20 "
     >
       <img
-        src="../../public/mast.jpg"
+        src="public/mast.jpg"
         alt="Mastewal kihnet"
         className="max-h-[450px] w-60 border border-amber-500 rounded-[150px] bg-transparent "
       />
